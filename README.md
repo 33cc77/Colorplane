@@ -6,6 +6,11 @@ We built a color picker for everybody else.
 ## Demo
 [http://33cc77.com/tools/colorplane](http://33cc77.com/tools/colorplane)
 
+## Dependencies
+jQuery
+
+(but you can easily edit it to use MooTools or other javascript libraries)
+
 ## Examples
 
 ### Green Room
