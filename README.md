@@ -7,7 +7,8 @@ We built a color picker for everybody else.
 [http://33cc77.com/tools/colorplane](http://33cc77.com/tools/colorplane)
 
 ## Dependencies
-jQuery & that's all!
+jQuery
+(but you can easily edit it to use MooTools or javascript libraries)
 
 ## Examples
 
