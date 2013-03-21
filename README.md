@@ -8,7 +8,8 @@ We built a color picker for everybody else.
 
 ## Dependencies
 jQuery
-(but you can easily edit it to use MooTools or javascript libraries)
+
+(but you can easily edit it to use MooTools or other javascript libraries)
 
 ## Examples
 
